@@ -1,0 +1,6 @@
+Local Backend/myenv/
+local frontend/myapp/node_modules/
+_pychache_/
+*pyc
+.env
+.next/
